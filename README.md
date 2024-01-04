@@ -1,5 +1,5 @@
-# 💫 About Me:
-👩‍💻I'm a Frontend Developer | Designer | Software Developer<br>🤝I'm looking for Junior Frontend Developer roles<br>🔗sudharam611@gmail.com
+# 💫 Hello, I'm Sudha 👋
+👩‍💻I'm a Frontend Developer | Designer | Software Developer<br>🤝I'm looking for Junior Frontend Developer roles<br>🌱I'm currently learning JS frameworks<br>🔗sudharam611@gmail.com
 
 
 ## 🌐 Socials:
